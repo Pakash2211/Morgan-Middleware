@@ -1,7 +1,7 @@
 # Morgan-Middleware
 <hr/>
 <h2> Find</h2>
-<p>--> Method</p>
+<p>---> Method</p>
 <p>---> Status</P>
      <p>---> Content-length</P>
      <p>---> Total-time taken ms</P>
